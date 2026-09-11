@@ -2,7 +2,7 @@
 Changes and Efficiency 
 # RavvnOS Framework v2 — Cross-Platform Core (Design Doc)
 
-> Scope: this document covers only the **new framework redesign discussion** — not the original v1 Bash core. It defines the architecture for a cross-platform (Linux/Arch + Windows) core, its tech stack, known risks with mitigations, and the build roadmap.
+> 
 
 ---
 
